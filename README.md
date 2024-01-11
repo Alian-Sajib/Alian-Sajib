@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alian-Sajib
-- 👀 I’m interested in Competitive Programming and Software Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Competitive Programming and Backend Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Developement
 - 📫 How to reach me ? Email : aliansajib3@gmail.com
 
